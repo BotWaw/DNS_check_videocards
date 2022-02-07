@@ -53,5 +53,7 @@
 
 ## DONATE
 USDT (сеть TRC20): TK4U5qRbPJzAnBpQRw35L165V6E7CpE655
+
 BTC (сеть Bitcoin): 366aPyykSqngQLbvhPAdTTLZ77ggT3aWVG
+
 DOGE (сеть Dogecoin): A2YFUfE6pC7Hj2VbE9gfCVxx7MAKPcLqgG
