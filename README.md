@@ -50,12 +50,4 @@
 ## Скачать файл программы
 Скачать последнюю версию программы вы можете [здесь](https://github.com/BotWaw/DNS_check_videocards/releases)
 
-## Поддержка
-По всем вопросам и ошибкам в программе пишите [мне](https://telegram.me/DarkSideP) в Telegram. 
 
-## DONATE
-USDT (сеть TRC20): TK4U5qRbPJzAnBpQRw35L165V6E7CpE655
-
-BTC (сеть Bitcoin): 366aPyykSqngQLbvhPAdTTLZ77ggT3aWVG
-
-DOGE (сеть Dogecoin): A2YFUfE6pC7Hj2VbE9gfCVxx7MAKPcLqgG
